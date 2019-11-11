@@ -8,6 +8,8 @@
 <link rel="canonical" href="https://google.com"/>
 <noscript>
 	<meta http-equiv="refresh" content="0;URL=https://google.com">
+	<script type="text/javascript">alert("1");</script>
+		
 </noscript>
 <!--[if lt IE 9]><script type="text/javascript">var IE_fix=true;</script><![endif]-->
 <script type="text/javascript">
